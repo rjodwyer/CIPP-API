@@ -1,0 +1,9 @@
+{
+    "Name": "Consortium Group",
+    "_MxComment": "https://URL.TO.DOCS",
+    "MxMatch": "cleanmail.consortium.com.au",
+    "_SpfComment": "https://URL.TO.DOCS",
+    "SpfInclude": "_spf.cleanmail.consortium.com.au",
+    "_DkimComment": "https://URL.TO.DOCS",
+    "Selectors": [""]
+}
